@@ -9,3 +9,5 @@
 !nwg-drawer/
 !nwg-launchers/
 !nwg-look/
+!starship.toml
+!tmux.conf
